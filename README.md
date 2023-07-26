@@ -34,4 +34,3 @@ AllSites_RandomForest_3.ipynb\
 AllSites_RandomForest_4.ipynb\
 AllSites_RandomForest_5.ipynb\
 AllSites_RandomForest_6.ipynb\
-![image](https://github.com/cassielumbrazo/NCALM_raster_analysis/assets/40898946/0b6832d4-f42f-42b8-a3aa-08f5f0189cd8)

@@ -11,8 +11,10 @@ July 2023
 
 ## Notebook contents 
 
-
+---
 ### **\lidar_analysis** directory 
+---
+
 *Clean the lidar data and create tidy netcdfs from raster (tifs)*
 **\CER_model_create_netcdf.ipynb**
 - creates final cleaned netcdf file: *cer_model_cleandata_create_netcdf.nc* 
@@ -45,6 +47,7 @@ July 2023
 ---
 ### **\random_forest** directory 
 ---
+
 **\AllSites_RandomForest_1.ipynb**
 - runs random forest with all data to produce PDP plot of elevation
 

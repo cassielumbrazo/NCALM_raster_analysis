@@ -66,3 +66,11 @@ July 2023
 **\AllSites_RandomForest_6.ipynb**
 - changes the decision tree order convention of the plots from the Random Forest #5 notebook
 - creates final random forest figures, snow depth and feature PDFs
+
+---
+### **\data** directory 
+(not stored on github, but data required to run scripts)
+---
+- cer_model_cleandata_create_netcdf.nc
+-  fl_model_cleandata_create_netcdf.nc
+-  sr_model_cleandata_create_netcdf.nc

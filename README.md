@@ -71,7 +71,7 @@ July 2023
 ### **\data** directory 
 ---
 These datasets are large and not stored on github. I will update this with a link to the data.\
-The datasets required to run the scrips in this repo include, 
+The datasets required to run the scrips in this repo include,\ 
 *a few final datasets with all the rasters combined into a single netcdf*
 - cer_model_cleandata_create_netcdf.nc
 -  fl_model_cleandata_create_netcdf.nc

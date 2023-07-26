@@ -8,10 +8,11 @@ created by Cassie Lumbrazo\
 July 2023 
 
 
-
+---
 ## Notebook contents 
+---
 
-### **lidar_analysis**
+### **\lidar_analysis\**
 #### Clean the lidar data and create tidy netcdfs from raster (tifs)
 **CER_model_create_netcdf.ipynb**
 - creates final cleaned netcdf file: *cer_model_cleandata_create_netcdf.nc* 
@@ -41,8 +42,9 @@ CER_xdem.ipynb**
 FL_xdem.ipynb**
 - creates a final figure in WADNR report 
 
-
-### **random_forest**
+---
+### **\random_forest\**
+---
 **AllSites_RandomForest_1.ipynb**
 - runs random forest with all data to produce PDP plot of elevation
 

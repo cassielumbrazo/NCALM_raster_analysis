@@ -69,8 +69,17 @@ July 2023
 
 ---
 ### **\data** directory 
-(not stored on github, but data required to run scripts)
 ---
+These datasets are large and not stored on github. I will update this with a link to the data.\
+The datasets required to run the scrips in this repo include, 
+*a few final datasets with all the rasters combined into a single netcdf*
 - cer_model_cleandata_create_netcdf.nc
 -  fl_model_cleandata_create_netcdf.nc
 -  sr_model_cleandata_create_netcdf.nc
+
+*and a few pickle python instances saved to make moving between notebooks easier...*
+-  all_sites_snowdepth_dem_dah_tpi_dce.pkl
+-  randomforest_bin1_1000.pkl
+-  randomforest_bin2_1000.pkl
+-  randomforest_bin3_1000.pkl
+

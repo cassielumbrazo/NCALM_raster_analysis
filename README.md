@@ -1,7 +1,7 @@
 # NCALM_raster_analysis
 
-Repo for all the NCALM raster analysis scripts, including 
-* processing lidar, create netcdf, make plots, random forest
+Repo for all the NCALM raster analysis scripts
+* processing lidar, create clean netcdfs of data, visualizing the data, performing random forest analysis 
 
 created by Cassie Lumbrazo
 July 2023 

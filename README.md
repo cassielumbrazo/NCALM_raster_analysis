@@ -13,13 +13,13 @@ July 2023
 
 ### **lidar_analysis**
 #### Clean the lidar data and create tidy netcdfs from raster (tifs)
-CER_model_create_netcdf.ipynb
+**CER_model_create_netcdf.ipynb**
 - creates final cleaned netcdf file: *cer_model_cleandata_create_netcdf.nc* 
 
-SR_model_create_netcdf.ipynb\
+**SR_model_create_netcdf.ipynb**
 - creates final cleaned netcdf file: *sr_model_cleandata_create_netcdf.nc* 
 
-FL_model_create_netcdf.ipynb\
+**FL_model_create_netcdf.ipynb**
 - creates final cleaned netcdf file: *fl_model_cleandata_create_netcdf.nc* 
 
 

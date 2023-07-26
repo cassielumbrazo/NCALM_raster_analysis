@@ -9,7 +9,7 @@ July 2023
 
 
 
-## Notebook contents 
+
 
 ---
 ### **\lidar_analysis** directory 

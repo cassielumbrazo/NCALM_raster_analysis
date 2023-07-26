@@ -13,7 +13,7 @@ July 2023
 
 
 ### **\lidar_analysis** directory 
-#### Clean the lidar data and create tidy netcdfs from raster (tifs)
+*Clean the lidar data and create tidy netcdfs from raster (tifs)*
 **\CER_model_create_netcdf.ipynb**
 - creates final cleaned netcdf file: *cer_model_cleandata_create_netcdf.nc* 
 
@@ -24,7 +24,7 @@ July 2023
 - creates final cleaned netcdf file: *fl_model_cleandata_create_netcdf.nc* 
 
 
-#### Visualizing the lidar data 
+*Visualizing the lidar data* 
 **\CER_model_plots.ipynb**
 - creates a final figure in WADNR report 
 
@@ -34,10 +34,10 @@ July 2023
 **\FL_model_plots.ipynb**
 - creates a final figure in WADNR report 
 
-AllSites_plots.ipynb**
+**\AllSites_plots.ipynb**
 - creates a final figure in WADNR report 
 
-#### xDEM analysis 
+*xDEM analysis* 
 **\CER_xdem.ipynb**
 **\FL_xdem.ipynb**
 - creates a final figure in WADNR report 
